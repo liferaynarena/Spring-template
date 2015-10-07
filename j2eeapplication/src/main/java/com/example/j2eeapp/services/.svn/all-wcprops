@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/j2eeapplication/src/main/java/com/example/j2eeapp/services
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/j2eeapplication/src/main/java/com/example/j2eeapp/services/UserService.java
+END
+UserAuthenticationProviderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/10/trunk/j2eeapplication/src/main/java/com/example/j2eeapp/services/UserAuthenticationProviderService.java
+END

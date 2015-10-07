@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/j2eeapplication/src/main/java/com/example/j2eeapp/commons/dao
+END
+GenericDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/trunk/j2eeapplication/src/main/java/com/example/j2eeapp/commons/dao/GenericDao.java
+END
+GenericJpaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/trunk/j2eeapplication/src/main/java/com/example/j2eeapp/commons/dao/GenericJpaDao.java
+END
